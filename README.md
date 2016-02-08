@@ -1,2 +1,2 @@
 # hello-world
-Another repository =w=
+Compute Science major Carnegie Mellon Univeristy Class of 2019.
